@@ -1,8 +1,7 @@
-# Discover Weather Application : Nompilo Moyo
-
+#Weather viewing application
 #Project scope:
 -  Create a weather app preferbly an android in Java/kotlin.
--  This project is a weather app forecasting daily temperature using .Net MAUI APP(MULTI-APP PLATFORM UI)  which is a cross-platform framework for creating native mobile and desktop apps with C# and XAML.
+-  This project is a weather viewing app forecasting daily temperature using .Net MAUI APP(MULTI-APP PLATFORM UI)  which is a cross-platform framework for creating native mobile and desktop apps with C# and XAML.
 
 #Application Requirements:
 -  Android application 
@@ -14,14 +13,19 @@ list.
 far as possible
 
 #Platform and Technologies used:
-- Visual studio 2022
+- Visual studio 
 - c#(programming language)
 - .net MAUI (framework/architecture(MVVM))
 - Xamarin
 
 #All unit tests ran successfully before application deployment.
 
-![image](https://github.com/nompilo21/DiscoveryInsureWeatherApplication/assets/42342489/af60e7dc-1d8d-41cf-9587-f11b50e57bdc)
+![image]
+![IMG_5504](https://github.com/AishenurV/Weather-viewing-application/assets/149357914/0e5510e4-b63f-41dc-9e0c-043fe44f88a6)
+
+
+
+
 
 
 #This application can be displayed as a desktop/android/ios app dependent on testing environment. Below are screenshots of the general look of app and what gets displayed when list item is selected.
@@ -29,7 +33,9 @@ far as possible
 
 1. Windows Machine
    
-![image](https://github.com/nompilo21/DiscoveryInsureWeatherApplication/assets/42342489/3e639863-33b5-4dac-a359-f83ff49df164)
+![image]
+![IMG_5494 (3)](https://github.com/AishenurV/Weather-viewing-application/assets/149357914/ed4229be-2255-4903-8b6a-31a87d52c381)
+
 
 
 
@@ -37,7 +43,10 @@ far as possible
 
 #selected item: Sunday
 
-![image](https://github.com/nompilo21/DiscoveryInsureWeatherApplication/assets/42342489/e06edb7f-f4fc-49ab-9daa-03ca29d3340a)
+![image]
+![IMG_5487 (3)](https://github.com/AishenurV/Weather-viewing-application/assets/149357914/483d25e9-7990-4e58-b0a2-d73aeb190130)
+
+
 
 
 
@@ -45,25 +54,34 @@ far as possible
 
 #selected item: Tuesday
 
-![image](https://github.com/nompilo21/DiscoveryInsureWeatherApplication/assets/42342489/08f2e640-1ea5-471b-85fe-d6da2f415f9d)
+![image]
+![IMG_5488 (4)](https://github.com/AishenurV/Weather-viewing-application/assets/149357914/9da2a70b-4555-42dc-b538-3e6d140e5c1d)
+
+
+
 
 
 
 
 2. Android Emulator
 
-![image](https://github.com/nompilo21/DiscoveryInsureWeatherApplication/assets/42342489/9598b4eb-7058-4612-94fc-3a9ad0c781f8)
+![image]
+![IMG_5489 (3)](https://github.com/AishenurV/Weather-viewing-application/assets/149357914/ff7b0007-76dc-4556-b73b-8016b4bc31fe)
+
+
 
 
 #selected item: Sunday
 
-![image](https://github.com/nompilo21/DiscoveryInsureWeatherApplication/assets/42342489/097c7749-b6e8-457b-83a2-74766a11c877)
+![image]
+![IMG_5490 (1)](https://github.com/AishenurV/Weather-viewing-application/assets/149357914/0c4c6b09-9c26-4f1f-a3d9-5e451a00a9c8)
+
 
 
 #selected item: Tuesday
 
-![image](https://github.com/nompilo21/DiscoveryInsureWeatherApplication/assets/42342489/27948905-782c-466c-8996-fc86bd46caf0)
-
+![image]
+![IMG_5491 (2)](https://github.com/AishenurV/Weather-viewing-application/assets/149357914/ad14c2d9-3f77-4c45-8343-8ed0eb08ed90)
 
 
 
